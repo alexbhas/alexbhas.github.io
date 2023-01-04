@@ -11,33 +11,33 @@
     </url>
     
         <url>
-            <loc>https://alexbhasin.ca/about</loc>
-            <lastmod>2023-01-04T01:42:10.333Z</lastmod>
-            <priority>0.5</priority>
-        </url>
-        <url>
             <loc>https://alexbhasin.ca/concurrent-fitness-centre</loc>
-            <lastmod>2023-01-04T01:42:10.333Z</lastmod>
+            <lastmod>2023-01-04T02:03:49.777Z</lastmod>
             <priority>0.5</priority>
         </url>
         <url>
             <loc>https://alexbhasin.ca/dark-mode-tool</loc>
-            <lastmod>2023-01-04T01:42:10.333Z</lastmod>
+            <lastmod>2023-01-04T02:03:49.777Z</lastmod>
             <priority>0.5</priority>
         </url>
         <url>
             <loc>https://alexbhasin.ca/life</loc>
-            <lastmod>2023-01-04T01:42:10.333Z</lastmod>
+            <lastmod>2023-01-04T02:03:49.777Z</lastmod>
             <priority>0.5</priority>
         </url>
         <url>
             <loc>https://alexbhasin.ca/oasis</loc>
-            <lastmod>2023-01-04T01:42:10.333Z</lastmod>
+            <lastmod>2023-01-04T02:03:49.777Z</lastmod>
             <priority>0.5</priority>
         </url>
         <url>
             <loc>https://alexbhasin.ca/resume</loc>
-            <lastmod>2023-01-04T01:42:10.333Z</lastmod>
+            <lastmod>2023-01-04T02:03:49.777Z</lastmod>
+            <priority>0.5</priority>
+        </url>
+        <url>
+            <loc>https://alexbhasin.ca/about</loc>
+            <lastmod>2023-01-04T02:03:49.773Z</lastmod>
             <priority>0.5</priority>
         </url>
   </urlset>
